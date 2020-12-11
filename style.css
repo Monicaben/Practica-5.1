@@ -1,0 +1,16 @@
+body
+{background-color: rgba(167, 172, 176, 0.468);
+font-size: large;}
+
+h2 
+{text-decoration: underline; background-color: rgb(162, 174, 162)  ; font-size: larger;}
+
+h1
+{text-align: center; }
+
+h3 {background-color: rgb(182, 183, 187);}
+
+div {background-color:  rgba(189, 189, 192, 0.592)  ;}
+span {color: blue;}
+
+footer {background-color: white; text-align: end;}
